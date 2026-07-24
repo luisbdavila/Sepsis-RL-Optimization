@@ -1,10 +1,5 @@
 # RL Group Project: Sepsis Treatment Optimisation
 
-**Master in Data Science & Advanced Analytics — Reinforcement Learning**
-Deadline: June 5, 2026
-
-Github: https://github.com/Mehmet1700/reinforcement-learning-project
-
 ## Group Members
 
 | Name | Student ID |
